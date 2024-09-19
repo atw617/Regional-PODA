@@ -1,5 +1,5 @@
 # Baseline: "PØDA: Prompt-driven Zero-shot Domain Adaptation" (ICCV 2023)
-<img src="https://github.com/user-attachments/assets/bbf26267-466a-4691-a51f-0d87da18b203" width="1200" height="270"/>
+<img src="https://github.com/user-attachments/assets/bbf26267-466a-4691-a51f-0d87da18b203" width="1200" height="250"/>
 
 </br>
 </br>
