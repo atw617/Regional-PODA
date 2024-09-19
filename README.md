@@ -1,4 +1,4 @@
-# Regional augmentation for PØDA (Method)
+# Regional augmentation for PØDA (My Method)
 <img src="https://github.com/user-attachments/assets/05dc68cd-b858-4a34-b6ab-9f2107b22561" width="780" height="400"/>
 </br>
 </br>
